@@ -972,6 +972,14 @@ footer {
     .process-cards {
 
         flex-direction: column;
+        width: 100%;
+
+    }
+
+
+    .process-card {
+
+        width: 100%;
 
     }
 
